@@ -1,4 +1,7 @@
 Hola.
 Esta es mi primera practica usando Git :)
 
+********INTEGRANTES********
 Alisson Zambrano
+Alvaro Chiriguaya
+Cristopher Chiriguaya
