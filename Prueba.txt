@@ -5,3 +5,4 @@ Esta es mi primera practica usando Git :)
 Alisson Zambrano
 Alvaro Chiriguaya
 Cristopher Silva
+La practica estuvo bien 
